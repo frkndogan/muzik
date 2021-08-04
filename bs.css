@@ -1,0 +1,62 @@
+body {
+    background-color: #E9ECEF;
+}
+h1 {
+    color: rgb(221, 104, 221);
+    text-align: center;
+    font-size: 75px;
+}
+h3 {
+    color: rgb(208, 208, 62);
+}
+.phakkimizda {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.h3hakkimizda {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.ust {
+    width: 1520px;
+    height: 50px;
+    
+}
+.ustrenk {
+    background-color: black;
+}
+.muzik {
+    color: red;
+   
+    
+}
+.ana {
+    color: silver;
+}
+.ustul {
+display: inline;
+}
+.ustli {
+     display: inline;
+    color: cornsilk;
+    padding: 15px;
+    float: left;
+    
+}  
+.main {
+    margin-left: 120px;
+}
+.kirmizi {
+    color: red;
+    text-decoration: none;
+}
+.beyaz {
+    color: silver;
+    text-decoration: none;
+}
+a:link {
+    text-decoration: none;
+}
+.bosluk {
+    margin: 20px 20px 20px 20px;
+}
